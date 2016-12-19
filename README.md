@@ -1,3 +1,4 @@
 # cancer_pathology
 
-This will be the master repository for our upcoming work on cancer pathology.
+tensorFlowTest.py -- just general playing with tensor flow variables, operations, and sessions
+tensorFlowNeuralNetworksTutorial.py -- working through the tensorFlow NN tutorial
