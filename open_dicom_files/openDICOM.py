@@ -10,6 +10,8 @@ import os
 import numpy
 from matplotlib import pyplot, cm
 
+
+## HAVE TO EDIT THIS TO MATCH YOUR PATH ##
 PathDicom = "/home/casey/TCIA_data/DOI/R_004"
 lstFilesDCM = []  # create an empty list
 for dirName, subdirList, fileList in os.walk(PathDicom):
